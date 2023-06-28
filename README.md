@@ -74,7 +74,7 @@ __Zephyr__
   *  Utilized Zephyr to create, manage, and execute test cases, ensuring comprehensive test coverage and accurate tracking of test results.
   *  Knowledgeable in features, such as test case versioning, bulk editing, and traceability reports, to enhance testing efficiency and effectiveness
 
-__TestLink__
+__TestRail__
   * Test case management, ensuring efficient tracking of testing progress and coverage.
   * Knowledge in traceability matrix and custom reporting, to streamline testing processes and improve efficiency.
 
