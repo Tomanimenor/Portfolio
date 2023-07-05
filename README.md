@@ -3,12 +3,11 @@
 - [CV  :clipboard:](#cv)
 - [Skills :ninja:](#skills)
 - [Tools :hammer_and_wrench:](#tools)
-- [Projects :bulb:](#projects)
 - [Examples of my work :warning::man_technologist::microbe::no_entry_sign:](#examples-of-my-work)
   * [Scenarios and Test cases in Trello / Zephyr](#scenarios-and-test-cases-in-trello--zephyr)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
-- [Courses and Experience :disguised_face:	](#courses-and-experience)
+- [Experience and Courses :disguised_face::bulb:	](#experience-and-courses)
 - [Books I have read :books:](#books-i-have-read)
 
 ## About me
@@ -83,15 +82,7 @@ __Postman__
 
 __Mind maps & diagrams__
   * Utilized mindmaps to visually organize and plan testing strategies, ensuring comprehensive coverage of testing scenarios, to enhance team collaboration and efficiency
-
-
-## Projects
-
-### Manual testing 
-  * As a manual tester for the [Royal Canin e-commerce](https://shop.royalcanin.com/), I performed comprehensive testing on key areas of the website, including login, homepage, product listing and detail pages, user interface, cart, and checkout. Through my testing efforts, I was able to identify and report defects, ensuring that the website was functioning optimally and providing a seamless and error-free shopping experience for customers. My testing methodology adhered to industry-standard testing practices, ensuring the highest quality of testing for the website
-  
-### Colabry Encyclopedia (IDforIdeas)
-  * As a member of the Quality Assurance team for a collaborative encyclopedia project, I was involved in the end-to-end software development lifecycle (SDLC). I contributed to the planning, design, development, testing, and deployment phases of the project, ensuring that the software was of high quality and met the projects objectives. I collaborated closely with other team members, including developers, project managers, and stakeholders, to identify and prioritize requirements, design test cases, execute tests, and report defects. My efforts helped ensure that the encyclopedia was reliable, functional, and met the needs of its users. This project also provided me with valuable experience in working collaboratively with cross-functional teams and following the SDLC processes.
+    
 
 ## Examples of my work
 
@@ -122,7 +113,7 @@ __Mind maps & diagrams__
 
 * Generating combinations for the form consisting of 3 fields, where possible values of the one field depend on the values of another field. See [the script for MS PICT]() and [the script for MS PICT]()
 
-## Courses and Experience
+## Experience and Courses
 
 __Utest the largest community of digital freelance software testers in the world__  
 Bug reports following each customer specification<br>
@@ -130,6 +121,12 @@ Achieved Silver Rating 🥈 in Functional Testing, Web and Mobile (macOS and And
 Constant communication with Test Team Lead and Test Engineers<br>
 Participated in many functional Testing Projects, Web/Mobile, for worldwide recognized companies<br>
 Google Suite, UTest Platform, Video Recording, Charles Log, Slack.
+
+__Manual testing__ 
+  * As a manual tester for the [Royal Canin e-commerce](https://shop.royalcanin.com/), I performed comprehensive testing on key areas of the website, including login, homepage, product listing and detail pages, user interface, cart, and checkout. Through my testing efforts, I was able to identify and report defects, ensuring that the website was functioning optimally and providing a seamless and error-free shopping experience for customers. My testing methodology adhered to industry-standard testing practices, ensuring the highest quality of testing for the website
+  
+__Colabry Encyclopedia (IDforIdeas)__
+  * As a member of the Quality Assurance team for a collaborative encyclopedia project, I was involved in the end-to-end software development lifecycle (SDLC). I contributed to the planning, design, development and testing phases of the project, ensuring that the software was of high quality and met the projects objectives. I collaborated closely with other team members, including developers, project managers, and stakeholders, to identify and prioritize requirements, design test cases, execute tests, and report defects. My efforts helped ensure that the encyclopedia was reliable, functional, and met the needs of its users. This project also provided me with valuable experience in working collaboratively with cross-functional teams and following the SDLC processes.
 
 __Atlassian Suite and TestRail Academy__  
 Proficient in Atlassian tools including Jira [cert](https://drive.google.com/file/d/1DlfKoTd1jj5qf_o_LNAErVsb70W7xHuG/view), Confluence [cert](https://drive.google.com/file/d/1ro6l6KbUBbLvysSjqZyUB0WKngc0m5yj/view), Trello, and Zephyr, having completed their fundamentals courses, and utilized them on an everyday basis while working on my presented projects.<br> 
