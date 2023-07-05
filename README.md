@@ -101,8 +101,8 @@ __Mind maps & diagrams__
 - Several bugs found on the [Royal Canin Shop web](https://shop.royalcanin.com/) and reported:
   * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1b8tccr5cBuWg7VIj2iXsWb34IAQFxGUe/view).
   * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1lfob2S_4zg_MUGOP6zXI3okA4b8t6Ke9/view).
-  * Bug #3. Check [the screenshot of the bug report in Jira]().
-  * Bug #4. Check [the screenshot of the bug report in Jira]().
+  * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1KHr1I1p_J0YIOwKn-JaSg0P4Q3HCQ4WT/view).
+  * Bug #4. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1SR4zhm4qDBcOK6L_uno1fDTk-QhQIT-R/view).
 * Example of a Jira project IDforIdeas. Check [here](https://drive.google.com/file/d/1mcq8vZSgrIE4bCoMzXuOkBRUZMCzACWT/view).
 
 ### Mindmaps and diagrams
