@@ -5,7 +5,6 @@
 - [Examples of my work :warning::man_technologist::microbe::no_entry_sign:](#examples-of-my-work)
   * [Scenarios and Test cases in Trello / Zephyr](#scenarios-and-test-cases-in-trello--zephyr)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
 - [Skills :ninja:](#skills)
 - [Tools :hammer_and_wrench:](#tools)
 - [Books I have read :books:](#books-i-have-read)
@@ -66,11 +65,6 @@ MVP Project of Colabry, a free colaborative encycopedia where users can search, 
   * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1KHr1I1p_J0YIOwKn-JaSg0P4Q3HCQ4WT/view).
   * Bug #4. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1SR4zhm4qDBcOK6L_uno1fDTk-QhQIT-R/view).
 * Example of a Jira project IDforIdeas. Check [here](https://drive.google.com/file/d/1mcq8vZSgrIE4bCoMzXuOkBRUZMCzACWT/view).
-
-### Mindmaps and diagrams
-* Diagrama Royal Canin Manual Testing Project [here](https://drive.google.com/file/d/1-MBgDFDUK0ScQJP3rkEewAh9vlzRaZcP/view).
-* Tasks Mindmap Royal Canin Manual Testing Project [here]() 
-
 
 ## Skills
 
