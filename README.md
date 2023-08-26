@@ -1,13 +1,13 @@
 # Portfolio MT :raising_hand_man:
 - [About me :speech_balloon:](#about-me)
 - [CV  :clipboard:](#cv)
-- [Skills :ninja:](#skills)
-- [Tools :hammer_and_wrench:](#tools)
+- [Experience and Courses :disguised_face::bulb:	](#experience-and-courses)
 - [Examples of my work :warning::man_technologist::microbe::no_entry_sign:](#examples-of-my-work)
   * [Scenarios and Test cases in Trello / Zephyr](#scenarios-and-test-cases-in-trello--zephyr)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
-- [Experience and Courses :disguised_face::bulb:	](#experience-and-courses)
+- [Skills :ninja:](#skills)
+- [Tools :hammer_and_wrench:](#tools)
 - [Books I have read :books:](#books-i-have-read)
 
 ## About me
@@ -20,6 +20,57 @@ I am excited about the prospect of applying my skills and experiences to new are
 
 ## CV
 You can download my CV [HERE](https://drive.google.com/file/d/13fYO_raxc1SdxWczmOmGgKjz1-rgxriW/view?usp=share_link).
+
+## Experience and Courses
+
+__Utest the largest community of digital freelance software testers in the world__  
+  * Bug reports following each customer specification<br>
+Achieved Silver Rating 🥈 in Functional Testing, Web and Mobile (macOS and Android)<br>
+Constant communication with Test Team Lead and Test Engineers<br>
+Participated in many functional Testing Projects, Web/Mobile, for worldwide recognized companies<br>
+Google Suite, UTest Platform, Video Recording, Charles Log, Slack.
+
+__Manual testing__ 
+  * As a manual tester for the [Royal Canin e-commerce](https://shop.royalcanin.com/), I performed comprehensive testing on key areas of the website, including login, homepage, product listing and detail pages, user interface, cart, and checkout. Through my testing efforts, I was able to identify and report defects, ensuring that the website was functioning optimally and providing a seamless and error-free shopping experience for customers. My testing methodology adhered to industry-standard testing practices, ensuring the highest quality of testing for the website
+  
+__Colabry Encyclopedia (IDforIdeas)__
+  * As a member of the Quality Assurance team for a collaborative encyclopedia project, I was involved in the end-to-end software development lifecycle (SDLC). I contributed to the planning, design, development and testing phases of the project, ensuring that the software was of high quality and met the projects objectives. I collaborated closely with other team members, including developers, project managers, and stakeholders, to identify and prioritize requirements, design test cases, execute tests, and report defects. My efforts helped ensure that the encyclopedia was reliable, functional, and met the needs of its users. This project also provided me with valuable experience in working collaboratively with cross-functional teams and following the SDLC processes.
+
+__Atlassian Suite and TestRail Academy__  
+Proficient in Atlassian tools including Jira [cert](https://drive.google.com/file/d/1DlfKoTd1jj5qf_o_LNAErVsb70W7xHuG/view), Confluence [cert](https://drive.google.com/file/d/1ro6l6KbUBbLvysSjqZyUB0WKngc0m5yj/view), Trello, and Zephyr, having completed their fundamentals courses, and utilized them on an everyday basis while working on my presented projects.<br> 
+TestRail Fundamentals [here](https://drive.google.com/file/d/1QuT5FTT2e0L-0L6PMGh89LhlWMEO7cSD/view)<br>
+TestRail Administration & Customization [here](https://drive.google.com/file/d/1vg0LCgfLykIKKaoPIgc_YaOGqaxxJqYz/view)
+
+__QA Manual Testing from the beginning__  
+*online course by Hema Presad, Udemy*  
+An introductory course to fundamentals of software testing, including software development life cycle (SDLC), software testing life cycle (STLC), testing principles, and types of manual testing techniques. [Cerificate](https://drive.google.com/file/d/1uTZw7URhX83VZkQ4SqpZR7FysBUPhFfV/view?usp=share_link)
+
+__IDforIdeas Project__
+MVP Project of Colabry, a free colaborative encycopedia where users can search, create and edit their topics.
+
+## Examples of my work
+
+### Manual Project Overview in [Notion](https://lush-smoke-293.notion.site/RC-Web-Testing-Overview-46152ad8351c47e691098be4c05e85bd) 
+
+### Scenarios and Test cases in Trello / Zephyr
+
+  * Test Scenarios, exploratory sessions and OOS in Trello [here](https://drive.google.com/file/d/1XM1i-ir84A7UZDbei6AhDOArmcrJ-zq7/view)
+  * Test Cases in Zephyr for Registration and Login for diferent OS and Browsers [here](https://drive.google.com/file/d/1O5H1HVpcFuLeHjaUZBKAQC9WqET2Yiq_/view)
+
+
+### Bug reports and work in Jira
+
+- Several bugs found on the [Royal Canin Shop web](https://shop.royalcanin.com/) and reported:
+  * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1b8tccr5cBuWg7VIj2iXsWb34IAQFxGUe/view).
+  * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1lfob2S_4zg_MUGOP6zXI3okA4b8t6Ke9/view).
+  * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1KHr1I1p_J0YIOwKn-JaSg0P4Q3HCQ4WT/view).
+  * Bug #4. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1SR4zhm4qDBcOK6L_uno1fDTk-QhQIT-R/view).
+* Example of a Jira project IDforIdeas. Check [here](https://drive.google.com/file/d/1mcq8vZSgrIE4bCoMzXuOkBRUZMCzACWT/view).
+
+### Mindmaps and diagrams
+* Diagrama Royal Canin Manual Testing Project [here](https://drive.google.com/file/d/1-MBgDFDUK0ScQJP3rkEewAh9vlzRaZcP/view).
+* Tasks Mindmap Royal Canin Manual Testing Project [here]() 
+
 
 ## Skills
 
@@ -83,59 +134,6 @@ __Postman__
 __Mind maps & diagrams__
   * Utilized mindmaps to visually organize and plan testing strategies, ensuring comprehensive coverage of testing scenarios, to enhance team collaboration and efficiency
     
-
-## Examples of my work
-
-### Manual Project Overview in [Notion](https://lush-smoke-293.notion.site/RC-Web-Testing-Overview-46152ad8351c47e691098be4c05e85bd) 
-
-### Scenarios and Test cases in Trello / Zephyr
-
-  * Test Scenarios, exploratory sessions and OOS in Trello [here](https://drive.google.com/file/d/1XM1i-ir84A7UZDbei6AhDOArmcrJ-zq7/view)
-  * Test Cases in Zephyr for Registration and Login for diferent OS and Browsers [here](https://drive.google.com/file/d/1O5H1HVpcFuLeHjaUZBKAQC9WqET2Yiq_/view)
-
-
-
-
-### Bug reports and work in Jira
-
-- Several bugs found on the [Royal Canin Shop web](https://shop.royalcanin.com/) and reported:
-  * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1b8tccr5cBuWg7VIj2iXsWb34IAQFxGUe/view).
-  * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1lfob2S_4zg_MUGOP6zXI3okA4b8t6Ke9/view).
-  * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1KHr1I1p_J0YIOwKn-JaSg0P4Q3HCQ4WT/view).
-  * Bug #4. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1SR4zhm4qDBcOK6L_uno1fDTk-QhQIT-R/view).
-* Example of a Jira project IDforIdeas. Check [here](https://drive.google.com/file/d/1mcq8vZSgrIE4bCoMzXuOkBRUZMCzACWT/view).
-
-### Mindmaps and diagrams
-* Diagrama Royal Canin Manual Testing Project [here](https://drive.google.com/file/d/1-MBgDFDUK0ScQJP3rkEewAh9vlzRaZcP/view).
-* Tasks Mindmap Royal Canin Manual Testing Project [here]() 
-
-## Experience and Courses
-
-__Utest the largest community of digital freelance software testers in the world__  
-  * Bug reports following each customer specification<br>
-Achieved Silver Rating 🥈 in Functional Testing, Web and Mobile (macOS and Android)<br>
-Constant communication with Test Team Lead and Test Engineers<br>
-Participated in many functional Testing Projects, Web/Mobile, for worldwide recognized companies<br>
-Google Suite, UTest Platform, Video Recording, Charles Log, Slack.
-
-__Manual testing__ 
-  * As a manual tester for the [Royal Canin e-commerce](https://shop.royalcanin.com/), I performed comprehensive testing on key areas of the website, including login, homepage, product listing and detail pages, user interface, cart, and checkout. Through my testing efforts, I was able to identify and report defects, ensuring that the website was functioning optimally and providing a seamless and error-free shopping experience for customers. My testing methodology adhered to industry-standard testing practices, ensuring the highest quality of testing for the website
-  
-__Colabry Encyclopedia (IDforIdeas)__
-  * As a member of the Quality Assurance team for a collaborative encyclopedia project, I was involved in the end-to-end software development lifecycle (SDLC). I contributed to the planning, design, development and testing phases of the project, ensuring that the software was of high quality and met the projects objectives. I collaborated closely with other team members, including developers, project managers, and stakeholders, to identify and prioritize requirements, design test cases, execute tests, and report defects. My efforts helped ensure that the encyclopedia was reliable, functional, and met the needs of its users. This project also provided me with valuable experience in working collaboratively with cross-functional teams and following the SDLC processes.
-
-__Atlassian Suite and TestRail Academy__  
-Proficient in Atlassian tools including Jira [cert](https://drive.google.com/file/d/1DlfKoTd1jj5qf_o_LNAErVsb70W7xHuG/view), Confluence [cert](https://drive.google.com/file/d/1ro6l6KbUBbLvysSjqZyUB0WKngc0m5yj/view), Trello, and Zephyr, having completed their fundamentals courses, and utilized them on an everyday basis while working on my presented projects.<br> 
-TestRail Fundamentals [here](https://drive.google.com/file/d/1QuT5FTT2e0L-0L6PMGh89LhlWMEO7cSD/view)<br>
-TestRail Administration & Customization [here](https://drive.google.com/file/d/1vg0LCgfLykIKKaoPIgc_YaOGqaxxJqYz/view)
-
-__QA Manual Testing from the beginning__  
-*online course by Hema Presad, Udemy*  
-An introductory course to fundamentals of software testing, including software development life cycle (SDLC), software testing life cycle (STLC), testing principles, and types of manual testing techniques. [Cerificate](https://drive.google.com/file/d/1uTZw7URhX83VZkQ4SqpZR7FysBUPhFfV/view?usp=share_link)
-
-__IDforIdeas Project__
-MVP Project of Colabry, a free colaborative encycopedia where users can search, create and edit their topics.
-
 
 ## Books I have read
 __"Introducción a las Pruebas de Sistemas de Información"__ Federico Toledo 2014 (in Spanish) - An introductory resource for students and professionals who are new to the field of software testing and provides a practical, hands-on approach to testing software. 
