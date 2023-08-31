@@ -9,6 +9,7 @@
 - [Tools :hammer_and_wrench:](#tools)
 - [Books I have read :books:](#books-i-have-read)
 
+
 ## About me
 
 As a lawyer with a diverse background, I have had the opportunity to work in various countries such as Australia, New Zealand, Germany, and now I reside in Spain. I was born and raised in Argentina and hold Italian citizenship, giving me a unique perspective on different cultures.
@@ -17,8 +18,10 @@ Throughout my career, I have demonstrated strong leadership and communication sk
 
 I am excited about the prospect of applying my skills and experiences to new areas and adding value to software development teams. I am always eager to learn and adapt to new challenges, and I am confident that my analytical skills and attention to detail will ensure the quality of software products. If you'd like to connect or learn more about me, please don't hesitate to reach out.
 
+
 ## CV
 You can download my CV [HERE](https://drive.google.com/file/d/13fYO_raxc1SdxWczmOmGgKjz1-rgxriW/view?usp=share_link).
+
 
 ## Experience and Courses
 
@@ -48,6 +51,7 @@ __Postman: The Complete Guide - REST API Testing__
 *Online course by Valentín Despa, Udemy*  
 A practical course that enhanced my skills in API validation for real-world scenarios by providing hands-on experience in utilizing Postman for effective REST API testing. [Cerificate](https://drive.google.com/file/d/1g_haeSQfoQVHzrF_0Ldnez1ihf1-tWuI/view)
 
+
 ## Examples of my work
 
 ### Manual Project Overview in [Notion](https://lush-smoke-293.notion.site/RC-Web-Testing-Overview-46152ad8351c47e691098be4c05e85bd) 
@@ -66,6 +70,7 @@ A practical course that enhanced my skills in API validation for real-world scen
   * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1KHr1I1p_J0YIOwKn-JaSg0P4Q3HCQ4WT/view).
   * Bug #4. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1SR4zhm4qDBcOK6L_uno1fDTk-QhQIT-R/view).
 * Example of a Jira project IDforIdeas. Check [here](https://drive.google.com/file/d/1mcq8vZSgrIE4bCoMzXuOkBRUZMCzACWT/view).
+
 
 ## Skills
 
@@ -92,6 +97,7 @@ __API testing__
 __SQL__
   * Executed basic SQL queries in MySQL for data retrieval, manipulation, and filtering
   * Knowledge in SQL syntax, including SELECT, WHERE, and JOIN statements, for efficient data querying and management
+
 
 ## Tools
 
@@ -125,9 +131,6 @@ __Postman__
  __Slack__
   * Familiar with the interface, sending messages, sharing files, and joining channels and groups
   * Proficient in navigating the Slack interface, including finding and using search functionality and managing personal settings and preferences
-
-__Mind maps & diagrams__
-  * Utilized mindmaps to visually organize and plan testing strategies, ensuring comprehensive coverage of testing scenarios, to enhance team collaboration and efficiency
     
 
 ## Books I have read
