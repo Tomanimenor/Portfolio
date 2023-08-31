@@ -44,9 +44,6 @@ __QA Manual Testing from the beginning__
 *online course by Hema Presad, Udemy*  
 An introductory course to fundamentals of software testing, including software development life cycle (SDLC), software testing life cycle (STLC), testing principles, and types of manual testing techniques. [Cerificate](https://drive.google.com/file/d/1uTZw7URhX83VZkQ4SqpZR7FysBUPhFfV/view?usp=share_link)
 
-__IDforIdeas Project__
-MVP Project of Colabry, a free colaborative encycopedia where users can search, create and edit their topics.
-
 ## Examples of my work
 
 ### Manual Project Overview in [Notion](https://lush-smoke-293.notion.site/RC-Web-Testing-Overview-46152ad8351c47e691098be4c05e85bd) 
