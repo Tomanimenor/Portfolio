@@ -41,8 +41,12 @@ TestRail Fundamentals [here](https://drive.google.com/file/d/1QuT5FTT2e0L-0L6PMG
 TestRail Administration & Customization [here](https://drive.google.com/file/d/1vg0LCgfLykIKKaoPIgc_YaOGqaxxJqYz/view)
 
 __QA Manual Testing from the beginning__  
-*online course by Hema Presad, Udemy*  
+*Online course by Hema Presad, Udemy*  
 An introductory course to fundamentals of software testing, including software development life cycle (SDLC), software testing life cycle (STLC), testing principles, and types of manual testing techniques. [Cerificate](https://drive.google.com/file/d/1uTZw7URhX83VZkQ4SqpZR7FysBUPhFfV/view?usp=share_link)
+
+__Postman: The Complete Guide - REST API Testing__  
+*Online course by Valentín Despa, Udemy*  
+A practical course that enhanced my skills in API validation for real-world scenarios by providing hands-on experience in utilizing Postman for effective REST API testing. [Cerificate](https://drive.google.com/file/d/1g_haeSQfoQVHzrF_0Ldnez1ihf1-tWuI/view)
 
 ## Examples of my work
 
